@@ -1,4 +1,4 @@
-# Bathroom Emergency Detection System
+# Overdose and Emergency Detection System
 
 A real-time embedded system designed to detect potential overdose incidents in private restrooms and discreetly notify staff. The project integrates multiple subsystems to ensure timely alerts while maintaining user privacy.
 
