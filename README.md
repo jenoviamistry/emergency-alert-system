@@ -24,6 +24,9 @@ Each subsystem is organized into its own directory and uses [PlatformIO](https:/
 
 > Note: PlatformIO must be run within the specific subsystem folder. Top-level builds are not supported.
 
+## Documentation
+Full technical design documentation, including subsystem schematics, specifications, oscilloscope validation captures, and parts rationale, is available in the docs/ folder.
+
 ## Development Modes
 
 - **Bare-Metal Programming** *(used throughout the final system)*  
@@ -47,8 +50,5 @@ The system aims to:
 
 This solution was designed with global scalability and regulatory compliance in mind, supporting integration into existing systems while being durable, low-maintenance, and moisture-resistant for bathroom deployment.
 
-All system requirements, engineering decisions, and validations were formally documented in a multi-stage design process. This includes:
-
-- **Design Document 1–3**: Requirements gathering, subsystem planning, implementation, and testing strategies.
-- **Final ABET Report**: A comprehensive summary of engineering practices, constraints, tradeoffs, testing, and ethical/social/environmental considerations.
+All system requirements, engineering decisions, and validations were formally documented. See the docs/ folder for the full technical design document.
 
